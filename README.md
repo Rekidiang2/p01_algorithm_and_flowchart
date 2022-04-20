@@ -28,7 +28,7 @@ Content algorithm and flowchart for diverse project to help people learning prog
             
             <p style="color:red;text-align:center;">
             <a href="https://twitter.com/ReaganKiese">Twitter</a> - 
-            <a href="">Linkedin</a> - 
+            <a href="https://www.linkedin.com/in/kiese-diangebeni-reagan-82992216a/">Linkedin</a> - 
             <a href="https://github.com/RekidiangData-S">Github</a> - 
             <a href="https://medium.com/@rkddatas">Medium</a> - 
             <a href="https://www.kaggle.com/rekidiang">Kaggle</a></p>
