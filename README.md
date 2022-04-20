@@ -19,17 +19,13 @@ Content algorithm and flowchart for diverse project to help people learning prog
 * Algorithms [(Course)](https://www.khanacademy.org/computing/computer-science/algorithms)
 
 ---
-
-         <div style="background-color:white;padding:1px">
-            <h6 style="color:black;text-align:center;">======================== Author ========================</h6>
-            <h6 style="color:black;text-align:center;">My name is Kiese Diangebeni Reagan, I'm Data Science Analyst, technology passionate person, Artificial Intelligence enthusiast and lifelong learner. </h6>
-            <h6 style="color:red;text-align:center;"> For more information about me go to my Website and Social Network platform (👇)</h6>
-            <h6 style="color:blue;text-align:center;"><a href:"https://kiese.tech>www.kiese.tech</a></h6>
-            
-            <p style="color:red;text-align:center;">
-            <a href="https://twitter.com/ReaganKiese">Twitter</a> - 
-            <a href="https://www.linkedin.com/in/kiese-diangebeni-reagan-82992216a/">Linkedin</a> - 
-            <a href="https://github.com/RekidiangData-S">Github</a> - 
-            <a href="https://medium.com/@rkddatas">Medium</a> - 
-            <a href="https://www.kaggle.com/rekidiang">Kaggle</a></p>
-            </div><br>"""
+___
+## My name is Kiese Diangebeni Reagan
+#### I'm **Data Science Analyst**, technology passionate person, Artificial Intelligence enthusiast and lifelong learner.
+Let get in touch : <a href="https://kiese.tech">www.kiese.tech</a>
+<a href="https://github.com/Rekidiang2"><img src="https://github.com/Rekidiang2/Rekidiang2/blob/main/leslogos/github-logo.png"></a>
+<a href="https://www.linkedin.com/in/kiese-diangebeni-reagan-82992216a/"><img src="https://github.com/Rekidiang2/Rekidiang2/blob/main/leslogos/linkedin-logo.png"></a>
+<a href="https://twitter.com/ReaganKiese"><img src="https://github.com/Rekidiang2/Rekidiang2/blob/main/leslogos/twitter-logo.png"></a>
+<a href="http://www.facebook.com/reagan.kiese.37"><img src="https://github.com/Rekidiang2/Rekidiang2/blob/main/leslogos/facebook-logo.png"></a>
+<a href="https://medium.com/@rkddatas"><img src="https://github.com/Rekidiang2/Rekidiang2/blob/main/leslogos/medium-logo.png"></a>                                    
+----
