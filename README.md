@@ -15,6 +15,14 @@ This repository contain algorithm and flowchart contain for diverse project to h
 
 ## How to contribute
 
+* Fork this repository
+* clone it from your github account
+* create a branch 
+* you can edit algorith and flowchart with the help of draw.io, select the file you want to edit in algo_flowchart/draw.io_algo_flowchart or create a new file by follow the pre-exist structure.
+* you create and edit code in your prefered programming language by implementing one or mony algorithm and flowchart.
+* you can also edit this readme file
+
+
 ## Resources
 * Algorithm and Flowchart [(Video)](https://www.youtube.com/watch?v=XVGggCc-d4k)
 * Algorithm, Pseudocode and Flowchart [(Article)](https://www.brainkart.com/article/Algorithm,-Pseudocode-and-Flowchart_6945/)
