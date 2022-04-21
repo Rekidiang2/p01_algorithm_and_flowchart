@@ -10,7 +10,7 @@ This repository contain algorithm and flowchart contain for diverse project to h
 * ├── pdf_algo_flowchart
   + contain algorithm and flowchart in pdf easy reading and use
 #### codes
-  + contain folder with programming language
+  + contain folder with programming language name where the algorithms are implemented
 
 
 ## How to contribute
