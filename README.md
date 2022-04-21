@@ -39,7 +39,6 @@ This repository contain algorithm and flowchart contain for diverse project to h
 * How to start with GitHub and contribute to the open source [Article](https://medium.com/@yamsaniraviteja6/how-to-start-with-github-and-contribute-to-the-open-source-6e7e4b001a6d)
 * How to Contribute to Open Source Projects – A Beginner's Guide [Article](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/)
 
----
 ___
 My name is **Kiese Diangebeni Reagan** I'm **Data Science Analyst**, technology passionate person, Artificial Intelligence enthusiast and lifelong learner. 
 **Let get in touch 👇** 
@@ -51,4 +50,4 @@ My name is **Kiese Diangebeni Reagan** I'm **Data Science Analyst**, technology 
 <a href="https://twitter.com/ReaganKiese"><img src="https://github.com/Rekidiang2/Rekidiang2/blob/main/leslogos/twitter-logo.png"></a>
 <a href="http://www.facebook.com/reagan.kiese.37"><img src="https://github.com/Rekidiang2/Rekidiang2/blob/main/leslogos/facebook-logo.png"></a>
 <a href="https://medium.com/@rkddatas"><img src="https://github.com/Rekidiang2/Rekidiang2/blob/main/leslogos/medium-logo.png"></a>                                    
-----
+---
