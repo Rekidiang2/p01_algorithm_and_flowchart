@@ -24,10 +24,15 @@ This repository contain algorithm and flowchart contain for diverse project to h
 
 
 ## Resources
+### Algorithm
 * Algorithm and Flowchart [(Video)](https://www.youtube.com/watch?v=XVGggCc-d4k)
 * Algorithm, Pseudocode and Flowchart [(Article)](https://www.brainkart.com/article/Algorithm,-Pseudocode-and-Flowchart_6945/)
 * Design and Analysis of Algorithms [(Course)](https://www.youtube.com/watch?v=D6Q_wHrzxDs)
 * Algorithms [(Course)](https://www.khanacademy.org/computing/computer-science/algorithms)
+### Open source contribution
+* How to Contribute to Open Source [Article](https://opensource.guide/how-to-contribute/#:~:text=If%20you%E2%80%99re%20looking%20for%20existing%20issues%20you%20can,end%20of%20the%20URL%20%28for%20example%20https%3A%2F%2Fgithub.com%2Ffacebook%2Freact%2Fcontribute%20%29.)
+* How to start with GitHub and contribute to the open source [Article](https://medium.com/@yamsaniraviteja6/how-to-start-with-github-and-contribute-to-the-open-source-6e7e4b001a6d)
+* How to Contribute to Open Source Projects – A Beginner's Guide [Article](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/)
 
 ---
 ___
