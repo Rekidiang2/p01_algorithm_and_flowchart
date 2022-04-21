@@ -21,6 +21,7 @@ This repository contain algorithm and flowchart contain for diverse project to h
 * you can edit algorith and flowchart with the help of draw.io, select the file you want to edit in algo_flowchart/draw.io_algo_flowchart or create a new file by follow the pre-exist structure.
 * you create and edit code in your prefered programming language by implementing one or mony algorithm and flowchart.
 * you can also edit this readme file
+* **Keep same file name accross diferent repository regardless of file extension**
 
 
 ## Resources
