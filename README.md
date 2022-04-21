@@ -4,13 +4,13 @@ This repository contain algorithm and flowchart contain for diverse project to h
 
 ## Organization of Content
 
-algo_flowchart
+#### algo_flowchart
 * ├── draw.io_algo_flowchart
   + contain algorithm and flowchart in draw.io format for edition
 * ├── pdf_algo_flowchart
-> contain algorithm and flowchart in pdf easy reading and use
-codes
-> contain folder with programming language
+  + contain algorithm and flowchart in pdf easy reading and use
+#### codes
+  + contain folder with programming language
 
 
 ## How to contribute
