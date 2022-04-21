@@ -42,7 +42,7 @@ This repository contain algorithm and flowchart contain for diverse project to h
 ---
 ___
 My name is **Kiese Diangebeni Reagan** I'm **Data Science Analyst**, technology passionate person, Artificial Intelligence enthusiast and lifelong learner. 
-**Let get in touch** ![image](https://user-images.githubusercontent.com/48117141/164432455-c9af33a6-fec7-4a09-9f03-c90a4ab06287.png)
+**Let get in touch 👇** 
 
 
 <a href="https://kiese.tech">www.kiese.tech</a>
