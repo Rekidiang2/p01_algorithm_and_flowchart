@@ -1,6 +1,10 @@
 # Algorithm and Flowchart
 This repository contain algorithm and flowchart contain for diverse project to help people learning programming to understand the logic and apply there knowledge using any programming language.
 
++ **Algorithm :** step by step solution for any given problem.
++ **Flowchart :** pictorial or diagrammatic representation of any algorithm.
++ **Pseudocode :** an artificial and informal language that helps programmers develop algorithms | a "text-based" detail (algorithmic) design tool.
+
 
 ## Organization of Content
 
