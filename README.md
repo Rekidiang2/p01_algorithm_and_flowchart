@@ -1,14 +1,17 @@
 # Algorithm and Flowchart
-Content algorithm and flowchart for diverse project to help people learning programming to understand the logic and apply there knowledge using any programming language.
+This repository contain algorithm and flowchart contain for diverse project to help people learning programming to understand the logic and apply there knowledge using any programming language.
 
 
 ## Organization of Content
 
-- algorithm_flowchart
-  + draw.io_algorithm_flowchart
-  + pdf_algorithm_flowchart
-- pseudo_code
-- codes
+algo_flowchart
+* ├── draw.io_algo_flowchart
+> contain algorithm and flowchart in draw.io format for edition
+* ├── pdf_algo_flowchart
+> contain algorithm and flowchart in pdf easy reading and use
+codes
+> contain folder with programming language
+
 
 ## How to contribute
 
